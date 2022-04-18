@@ -19,7 +19,7 @@ def change_time_JST(u_time):
     return str_time
 
 # Slackに送る機能
-WEB_HOOK_URL = "https://hooks.slack.com/services/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"
+WEB_HOOK_URL = ""
 
 #今日の日付を取得
 DATE_TODAY = date.today()
